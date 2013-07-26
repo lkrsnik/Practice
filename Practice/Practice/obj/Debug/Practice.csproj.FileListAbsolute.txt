@@ -25,6 +25,6 @@ D:\Sluzba\Vaje\MVCV1\Practice\Practice\bin\System.Web.Razor.xml
 D:\Sluzba\Vaje\MVCV1\Practice\Practice\bin\System.Web.WebPages.xml
 D:\Sluzba\Vaje\MVCV1\Practice\Practice\bin\System.Web.WebPages.Deployment.xml
 D:\Sluzba\Vaje\MVCV1\Practice\Practice\bin\System.Web.WebPages.Razor.xml
-D:\Sluzba\Vaje\MVCV1\Practice\Practice\obj\Debug\Practice.csprojResolveAssemblyReference.cache
 D:\Sluzba\Vaje\MVCV1\Practice\Practice\obj\Debug\Practice.dll
 D:\Sluzba\Vaje\MVCV1\Practice\Practice\obj\Debug\Practice.pdb
+D:\Sluzba\Vaje\MVCV1\Practice\Practice\obj\Debug\Practice.csprojResolveAssemblyReference.cache

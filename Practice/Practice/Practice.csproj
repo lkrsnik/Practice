@@ -122,7 +122,7 @@
     <Compile Include="App_Start\FilterConfig.cs" />
     <Compile Include="App_Start\RouteConfig.cs" />
     <Compile Include="App_Start\WebApiConfig.cs" />
-    <Compile Include="Controllers\Problem3Controller.cs" />
+    <Compile Include="Controllers\StartController.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
@@ -201,7 +201,14 @@
     <Content Include="Scripts\knockout-2.1.0.js" />
     <Content Include="Scripts\modernizr-2.5.3.js" />
     <Content Include="Scripts\_references.js" />
-    <Content Include="Views\Problem3\Index.aspx" />
+    <Content Include="Views\Start\Problem11.aspx" />
+    <Content Include="Views\Start\Problem3.aspx" />
+    <Content Include="Views\Start\Problem4.aspx" />
+    <Content Include="Views\Start\Index.aspx" />
+    <Content Include="Views\Start\Problem5.aspx" />
+    <Content Include="Views\Start\Problem6.aspx" />
+    <Content Include="Views\Start\Problem8.aspx" />
+    <Content Include="Views\Start\Problem9.aspx" />
     <Content Include="Web.config" />
     <Content Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
@@ -235,7 +242,7 @@
         <WebProjectProperties>
           <UseIIS>True</UseIIS>
           <AutoAssignPort>True</AutoAssignPort>
-          <DevelopmentServerPort>0</DevelopmentServerPort>
+          <DevelopmentServerPort>4892</DevelopmentServerPort>
           <DevelopmentServerVPath>/</DevelopmentServerVPath>
           <IISUrl>http://localhost:17254/</IISUrl>
           <NTLMAuthentication>False</NTLMAuthentication>
